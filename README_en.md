@@ -1,4 +1,4 @@
-# Panda Data Science Studio
+# Panda Data Science Studio （[中文版](README.md)
 
 Our Panda Data Science Studio consists of some professionals with multi-disciplines in statistics, computer science, engineering, etc.
 
