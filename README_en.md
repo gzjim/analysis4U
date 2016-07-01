@@ -21,4 +21,6 @@ We can offer professional services for your data analytics in academic research 
 ![Pics s3](pic/CA2.png "ca2")
 ![Pics s4](pic/s3.png "s3")
 ![Pics s4](pic/tt.png "s3")
+![Pics s4](pic/pp1.png "s3")
+![Pics s4](pic/rr1.png "s3")
 
