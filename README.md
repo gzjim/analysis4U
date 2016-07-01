@@ -20,8 +20,8 @@
 | ![Pics s5](pic/transim.png "transim")| ![Pics s5](pic/bi-flow.png "transim")    | 
 | ![Pics s6](pic/p1.jpg "p1")          | ![Pics](pic/CA1.png "ca1")               |
 | ![Pics](pic/CA2.png "ca2")           | ![Pics](pic/s3.png "s3")                 |
-| ![rr1](pic/rr1.jpg "rr1")            | ![Pics](pic/hums_3.jpeg "hums_3")        |
-| ![tt](pic/tt.jpg "tt")               | ![Pics](pic/pp1.jpeg "pp1")              |
+| ![rr1](pic/rr1.png "rr1")            | ![Pics](pic/t2.png "t2")                 |
+| ![tt](pic/tt.png "tt")               | ![Pics](pic/pp1.png "pp1")               |
 | ![hums](pic/hums_3.jpg "hums")       | ![Pics](pic/flightdata.jpeg "flightdata")|
 
 
