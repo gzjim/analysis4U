@@ -15,7 +15,6 @@
 我工作室是专门为科研单位和公司提供数据分析服务支持的团队， 团队提供如软件开发、数据质量控制、统计分析方法、机器学习算法、数据可视化、ETL、数据库和数据仓库开发、高性能分布式集群搭建与应用的技术支持和顾问。
 
 
-
 ![Pics s5](pic/transim.png "transim")
 ![Pics s6](pic/bi-flow.png "bi-flow")
 ![Pics s1](pic/p1.jpg "p1")
@@ -27,3 +26,4 @@
 ![Pics s4](pic/pp1.png "s3")
 ![Pics s4](pic/rr1.png "s3")
 
+Reference: http://dblp.uni-trier.de/pers/hd/y/Yue:Hang
