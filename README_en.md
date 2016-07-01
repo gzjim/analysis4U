@@ -20,4 +20,9 @@ We can offer professional services for your data analytics in academic research 
 | ![Pics s5](pic/transim.png "transim")| ![Pics s5](pic/bi-flow.png "transim")    | 
 | ![Pics s6](pic/p1.jpg "p1")          | ![Pics](pic/CA1.png "ca1")               |
 | ![Pics](pic/CA2.png "ca2")           | ![Pics](pic/s3.png "s3")                 |
-| ![hums](pic/hums_3.jpg "hums")       | ![Pics](pic/flightdata.jpeg "flightdata")                 |
+| ![rr1](pic/rr1.jpg "rr1")            | ![Pics](pic/hums_3.jpeg "hums_3")        |
+| ![tt](pic/tt.jpg "tt")               | ![Pics](pic/pp1.jpeg "pp1")              |
+| ![hums](pic/hums_3.jpg "hums")       | ![Pics](pic/flightdata.jpeg "flightdata")|
+
+Reference: http://dblp.uni-trier.de/pers/hd/y/Yue:Hang
+
