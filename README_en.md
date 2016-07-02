@@ -5,10 +5,10 @@ Our Panda Data Science Studio consists of some professionals with multi-discipli
 We are good at business intelligence and location intelligence: 
 
 1. Big data Hadoop Ecosystem including Apache Drill, Hive
-2. Statistical method and data mining using Python, R, SAS
+2. Statistical method and data mining using Python、R、SAS、Matlab,vc#, Java, c，cpp,Scala, Haskell、golang
 3. Data visualization using Tableau, QlikView, ArcGIS or Open source GIS
 4. Database design and software development using Java, C++, SQL
-5. Experience on Mesos、Spark、Storm
+5. Experience on Mesos、Spark、Storm、CUDA、MachineLearning
 6. Experience on helicopter health and diagnostic, PHM etc.
 
 
