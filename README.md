@@ -17,6 +17,8 @@
 
 我工作室是专门为科研单位和公司提供数据分析服务支持的团队， 团队提供如软件开发、数据质量控制、统计分析方法、机器学习算法、数据可视化、ETL、数据库和数据仓库开发、高性能分布式集群搭建与应用的技术支持和顾问。
 
+(note: for students, our service can improve the quality of your thesis or dissertation and save your graduation time, solve your coding problems and tough data analysis issues)
+
 |    |    |
 | -------------------------------------|:----------------------------------------:| 
 | ![Pics s5](pic/transim.png "transim")| ![Pics s5](pic/bi-flow.png "transim")    | 
