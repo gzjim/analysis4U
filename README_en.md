@@ -14,7 +14,7 @@ We are good at business intelligence and location intelligence:
 
 We can offer professional services for your data analytics in academic research or software development in business, such as data quality control, statistical analysis method, machine learning algorithm, data visualization, ETL, database or data warehouse development, software programming, website development, etc. 
 
-(note: our service can improve the quality of your thesis or dissertation and save your graduation time, solve your coding problems and tough data analysis issues)
+(note: for students, our service can improve the quality of your thesis or dissertation and save your graduation time, solve your coding problems and tough data analysis issues)
 
 |    |    |
 | -------------------------------------|:----------------------------------------:| 
